@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="confirm">Confirm</string>
+    <string-array name="spinnerValue">
+        <item>Yilan County</item>
+        <item>Hualien County</item>
+        <item>Taitung County</item>
+        <item>Penghu County</item>
+        <item>Kinmen County</item>
+        <item>Lienchiang County</item>
+        <item>Taipei City</item>
+        <item>New Taipei City</item>
+        <item>Taoyuan City</item>
+        <item>Taichung City</item>
+        <item>Tainan City</item>
+        <item>Kaohsiung City</item>
+        <item>Keelung City</item>
+        <item>Hsinchu County</item>
+        <item>Hsinchu City</item>
+        <item>Miaoli County</item>
+        <item>Changhua County</item>
+        <item>Nantou County</item>
+        <item>Yunlin County</item>
+        <item>Chiayi County</item>
+        <item>Chiayi City</item>
+        <item>Pingtung County</item>
+    </string-array>
+</resources>
